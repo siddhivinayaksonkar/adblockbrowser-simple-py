@@ -17,3 +17,6 @@ A lightweight, Python-based web browser built on Chromium with integrated ad-blo
    ```bash
    git clone https://github.com/siddhivinayaksonkar/adblockbrowser-simple-py.git
    cd adblockbrowser-simple-py 
+
+
+Disclaimer: This project is for educational purposes. It may not block all ads, and websites may break occasionally. Use as a starting point for more advanced ad-blocking tools.
